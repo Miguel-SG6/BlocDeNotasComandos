@@ -1,0 +1,8 @@
+control .exe (Panel de control)
+msinfo32 (Informacion del sistema (detallada))
+cleanmgr (Liberador de espacio de Win10)
+mstsc (Escritorio remoto)
+resmon (Monitor de recursos)
+regedit (Editor de registro)
+ncpa.cpl (Adaptadores de red)
+perfmon /rel (Historial de problemas detectados)
